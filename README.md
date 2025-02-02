@@ -1,6 +1,8 @@
-Self-Healing demo with AI Integration
+# **Self-Healing selenium Automation locators with AI Integration** 🚀
+
 Overview
-This project is a Self-Healing locator demo designed to enhance the robustness of Selenium-based test automation. It leverages AI-powered locator generation using Ollama to dynamically adapt to UI changes, reducing maintenance overhead and improving test stability.
+This project is a Self-Healing locator demo designed to enhance the robustness of Selenium-based test automation. It leverages AI-powered locator generation using Ollama to dynamically adapt to UI changes, 
+reducing maintenance overhead and improving test stability.
 
 Key Features
 Self-Healing Mechanism: Automatically recovers from failed locators (e.g., NoSuchElementException) by generating alternative XPath selectors.
